@@ -2,11 +2,10 @@
 Create Editing  Readme Files 
 ### HI 
 <details>
-<summary>My top languages</summary>
 
-| Rank | Languages |
+| W3SCHOOLS | TOPICS |
 |-----:|-----------|
-|     1| Javascript|
+|     1| J|
 |     2| Python    |
 |     3| SQL       |
 
