@@ -1,7 +1,6 @@
 # EditReadmeFile
 Create Editing  Readme Files 
 ### HI 
-<details>
 
 | W3SCHOOLS | TOPICS |
 |-----:|-----------|
@@ -9,4 +8,4 @@ Create Editing  Readme Files
 |     2| Python    |
 |     3| SQL       |
 
-</details>
+
